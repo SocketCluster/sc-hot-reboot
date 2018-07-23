@@ -1,6 +1,6 @@
 {
   "name": "sc-hot-reboot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically reboot workers when code changes.",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/SocketCluster/sc-hot-reboot",
   "dependencies": {
-    "chokidar": "1.6.1"
+    "chokidar": "2.0.4"
   }
 }
